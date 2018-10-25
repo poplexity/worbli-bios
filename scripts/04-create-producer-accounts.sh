@@ -15,7 +15,7 @@ worblim system newaccount eosio --transfer eoscannon EOS7B9jtpu6LwjWu5JvjoooSXHd
 
 worblim system newaccount eosio --transfer eosdac EOS7oDZUQh2VbhfY8h2Kztd8nroCKKUpf1uQwyzdQzdHJrExiLgXA EOS7ubVBWg5bR6jPYorxehZ8nvaz9Sk21TNNQn9VxRGjsZQpitbJr --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
-worblim system newaccount eosio --transfer eosiodetroit EOS6qsFgsTKghesUDRKoHFqeMqLp1mCVYAuB3LdRdHu6s7m2L5g58 --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
+worblim system newaccount eosio --transfer eosiodetroit EOS68W24qwYD3JGbhY6myYiWDeiMnFFvPGuPqTweVCBfXdAkVLrmD EOS7GPcFB2yy45QpQ5ExKUZ2bmHcw9yeDFaektwJ2dRC4PHjg1xeU --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
 worblim system newaccount eosio --transfer eosiosg EOS7AhwG4iBuSPJNXeq21EHJwbkjBUd2DbcPMQAe3A6XhfE7mAznv --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
