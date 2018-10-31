@@ -11,3 +11,6 @@ worblim system newaccount eosio --transfer chainrift EOS7RQ6fJTDzZTSoL6tmzXwfs9F
 worblim system newaccount eosio --transfer eosgermany EOS6TR2SD6XWVNLtutyjF8Zjr5YzNhnq2Ri2EN2S6H5dasVBrR9RE --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
 worblim system newaccount eosio --transfer eostitan EOS7WjjoUg1tPfpkgYuuFFqAHU5r7p57dBT9KKjFsJgXBmSscQ5dw EOS7Pkpm3b9fqzHaQKfEZE8aa4HrdMPLJJoWYh6p4FLFJv2zV7Ffk --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
+
+worbli system newaccount eosio --transfer argentinawor EOS6pnUFKrhNrUjCaeYQ7xLxnMJxde9ASWutdxUSbTScACkW3gYb9 EOS61nyfTiWpLAUkDoSzMqNCYEF7AvtfUrctpyy5WaHJjR7HSzkfU --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
+
