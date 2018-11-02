@@ -12,5 +12,6 @@ worblim system newaccount eosio eosgermany EOS6TR2SD6XWVNLtutyjF8Zjr5YzNhnq2Ri2E
 
 worblim system newaccount eosio eostitan EOS7WjjoUg1tPfpkgYuuFFqAHU5r7p57dBT9KKjFsJgXBmSscQ5dw EOS7Pkpm3b9fqzHaQKfEZE8aa4HrdMPLJJoWYh6p4FLFJv2zV7Ffk --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
-worbli system newaccount eosio argentinawor EOS6pnUFKrhNrUjCaeYQ7xLxnMJxde9ASWutdxUSbTScACkW3gYb9 EOS61nyfTiWpLAUkDoSzMqNCYEF7AvtfUrctpyy5WaHJjR7HSzkfU --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
+worblim system newaccount eosio argentinawor EOS6pnUFKrhNrUjCaeYQ7xLxnMJxde9ASWutdxUSbTScACkW3gYb9 EOS61nyfTiWpLAUkDoSzMqNCYEF7AvtfUrctpyy5WaHJjR7HSzkfU --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
 
+worblim system newaccount eosio caleos EOS4xBH1DuAUJswFtypbnNhsCjhRMo7psCfJSDcdTcTLNUGau5Huu EOS4voMXS2tnvjyaaVi8xDJiF2HBoZTvGr4zprwZQQasFGdXwKUkc --stake-net "500.0000 WBI" --stake-cpu "500.0000 WBI" --buy-ram-kbytes 4
